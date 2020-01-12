@@ -5,7 +5,7 @@
 </head>
 <body>
 
-<h1>#Introduction of Myself</h1>
+<h1>Introduction of Myself</h1>
 
 <p>Name : Steven Hsu</p>
 <p>Age : 18</p>
@@ -13,7 +13,11 @@
 <p>Educational Background : Taichung First Senior High School</p>
 <p>University : National Tsing Hua University</p>
 <p>Department : Interdisciplinary Program of Engineering</p>
-
+<p>Hobbies : </p>
+<ol>
+<li>play guitar and sing songs simultaneously</li>
+<li>write some stories of my life experience</li>
+<li>play video games</li>
 
 
 </body>
