@@ -1,19 +1,19 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Page Title</title>
+<title>Personal Homepage</title>
 </head>
 <body>
 
-<h1>Personal Homepage</h1>
-<p>
-Name : Steven Hsu
-Age : 18
-Hometown : Tanzi,Taichung,Taiwan
-Educational Background : Taichung First Senior High School
-University : National Tsing Hua University
-Department : Interdisciplinary Program of Engineering
-</p>
+<h1>#Introduction of Myself</h1>
+
+<p>Name : Steven Hsu</p>
+<p>Age : 18</p>
+<p>Hometown : Tanzi,Taichung,Taiwan</p>
+<p>Educational Background : Taichung First Senior High School</p>
+<p>University : National Tsing Hua University</p>
+<p>Department : Interdisciplinary Program of Engineering</p>
+
 
 
 </body>
