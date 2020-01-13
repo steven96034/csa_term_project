@@ -15,17 +15,15 @@ header
 article 
 {
   float: right;
-  padding: 20px;
+  padding: 20px;a
   width: 60%;
-  //background-color: #f1f1f1;
   height: 300px;
 }
 nav
 {
   float: left;
   width: 30%;
-  height: 300px; /* only for demonstration, should be removed */
-  //background: #ccc;
+  height: 300px;
   padding: 50px;
 }
 body 
