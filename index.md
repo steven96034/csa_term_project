@@ -15,7 +15,7 @@ header
 article 
 {
   float: right;
-  padding: 20px;a
+  padding: 20px;
   width: 60%;
   height: 300px;
 }
